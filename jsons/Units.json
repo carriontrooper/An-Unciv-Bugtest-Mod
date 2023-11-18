@@ -1,8 +1,20 @@
 [
 	{
-		//test
+		"name": "Weakling",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 1,
+		"cost": 1,
+		"obsoleteTech": "Metal Casting",
+		"upgradesTo": "Machoman",
+		"uniques" : [
+			"May upgrade to [Machoman] through ruins-like effects",
+			"Only available <when []>"
+		],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Before gym."}
+		]
 	},
-	{
-		//tost
-	}
+	
 ]
