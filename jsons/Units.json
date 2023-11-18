@@ -9,11 +9,29 @@
 		"upgradesTo": "Machoman",
 		"uniques" : [
 			"May upgrade to [Machoman] through ruins-like effects",
-			"Only available <when []>"
+			"Only available <in cities with a [Fitness Gym]>"
 		],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "Before gym."}
+		]
+	},
+	
+	{
+		"name": "Machoman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 100,
+		"cost": 1,
+		"obsoleteTech": "Metal Casting",
+		//"upgradesTo": "Machoman",
+		"uniques" : [
+			//"May upgrade to [Machoman] through ruins-like effects",
+			"Only available <in cities with a [Fitness Gym]>"
+		],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "After gym."}
 		]
 	},
 	
