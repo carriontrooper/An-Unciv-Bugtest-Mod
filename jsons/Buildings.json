@@ -3,6 +3,7 @@
 		"name": "Fitness Gym",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
+		"cost": 1,
 		"uniques": ["Destroyed when the city is captured"],
 		//"requiredTech": "Bronze Working"
 	},
