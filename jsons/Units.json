@@ -28,7 +28,8 @@
 		"uniques" : [
 			//"May upgrade to [Machoman] through ruins-like effects",
 			//"Only available <in cities with a [Fitness Gym]>"
-			"Only available <if [Fitness Gym] is constructed>"
+			//"Only available <if [Fitness Gym] is constructed>"
+			"Unbuildable <in cities without a [Fitness Gym]>"
 		],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
